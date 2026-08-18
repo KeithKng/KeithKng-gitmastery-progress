@@ -330,5 +330,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1787061813.754364,
+    "completed_at": 1787061816.427679,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
   }
 ]
